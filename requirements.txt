@@ -1,0 +1,17 @@
+mysql-connector-python
+SQLAlchemy
+sqlalchemy-utils
+fastapi[all]
+fastapi-mail
+fastapi-utils
+PYMYSQL
+uvicorn
+dnspython
+email-validator
+pydantic
+cryptography
+starlette
+PyJWT
+python-decouple
+bcrypt
+pylint
